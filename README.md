@@ -1,4 +1,3 @@
-Welcome to the Weibo-Word-Cloud-Analysis-System wiki!
 # 微博词云分析系统
 
 ## 功能描述
