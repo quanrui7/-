@@ -1,3 +1,4 @@
+Welcome to the Weibo-Word-Cloud-Analysis-System wiki!
 # 微博词云分析系统
 
 ## 功能描述
@@ -37,3 +38,20 @@
 - 控制台实时爬取进度
 - 词云图文件：xi_an_jiaotong_wordcloud.jpg
 - 统计信息：爬取页数、收集词汇量
+
+## 截图
+- 图1
+<img width="602" alt="截屏2025-06-27 02 13 05" src="https://github.com/user-attachments/assets/c19fa3ae-9f73-4249-bc16-9df7c0c8c67b" />
+
+- 图2
+<img width="680" alt="截屏2025-06-27 17 51 46" src="https://github.com/user-attachments/assets/f9c794b0-e1da-4b3f-916d-c75f311053d3" />
+
+
+## requirements.txt
+- requests==2.31.0
+- parsel==1.8.1
+- jieba==0.42.1
+- wordcloud==1.9.3
+- pillow==10.2.0
+- numpy==1.26.4
+- matplotlib==3.8.3
